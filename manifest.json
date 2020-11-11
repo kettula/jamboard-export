@@ -2,7 +2,7 @@
     "name": "Jamboard Export",
     "version": "1.0",
     "author": "Viljo Malmberg",
-    "description": "Export all the notes on a jamboard to a csv",
+    "description": "Export or copy the notes on a Google Jamboard onto the clipboard",
     "permissions": [
         "activeTab",
         "background",
